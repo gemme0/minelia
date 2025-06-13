@@ -1,4 +1,4 @@
-
+/*
 setInterval(() => {
     const today =new Date().getTime()
     const event = new Date("2024-08-30 20:00:00").getTime()
@@ -14,4 +14,4 @@ setInterval(() => {
     document.getElementById("minutes").innerText = minutes + "m"
     document.getElementById("seconds").innerText = seconds + "s"
 
-}, 1000)
+}, 1000)*/
